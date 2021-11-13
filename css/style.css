@@ -204,7 +204,7 @@ body{
     border-radius: 15px;
     box-shadow: 0px -5px 10px rgba(0,0,0,0.1);
     background: var(--smoke);
-    transition: all 0.14s ease-out;
+    transition: all 0.25s ease-out;
 }
 .music-list.show{
     bottom: 0;
