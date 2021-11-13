@@ -62,7 +62,7 @@ let allMusic = [
   {
     name: "Your Lie",
     artist: "Ja¥en x District",
-    img: "you-lie",
-    src: "your-lie"
+    img: "you",
+    src: "you"
   },
 ];
